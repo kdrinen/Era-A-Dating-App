@@ -1,0 +1,41 @@
+img  {
+  width: 15%;
+  padding: 5% 1% 2% 1%;
+}
+
+.container{
+  display: flex;
+  flex-wrap: nowrap;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  margin: 5%;
+  width: 100%;
+}
+
+.box{
+  text-align: center;
+  margin: 2% 3% 2% 3%;
+  width: 100%;
+}
+
+
+.nav2{
+  background-color: #E24E42;
+}
+.nav3{
+  background-color: #E9B000;
+}
+.nav4{
+  background-color: #EB6E80;
+}
+.nav5{
+  background-color: #008F95;
+}
+
+p{
+  width: 20em;
+  display: block;
+    margin: auto;
+}
